@@ -29,3 +29,8 @@ The application can be used for Doctors if they don't have much time and are in 
 ## Project Details:
 - World canvas mode is used to overlay on the screen the panels in order to show menus in AR mode (instead of screen overlay)
 - Patient class is implemented using Scriptable objects to facilitate the creation of multiple patients
+
+## Important Scripts in the project
+- ClockScript.cs (script for respiratory rate data generation)
+- target_controller.cs (controller for all target related functions)
+- Patient.cs (scriptable object class for patient)
