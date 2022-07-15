@@ -17,7 +17,7 @@ public class ClockScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //timeText = GetComponent<TextMeshProUGUI>();
+
         timeToWait = Time.fixedTime + 2f;
 
 
@@ -28,6 +28,7 @@ public class ClockScript : MonoBehaviour
     {
     }
 
+    // Generate random numbers to display for respitory data
     void FixedUpdate()
     {
         if (Time.fixedTime >= timeToWait)
