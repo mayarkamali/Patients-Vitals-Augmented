@@ -4,11 +4,9 @@
 The idea is basically to utilize a mobile application to visualize the information related to hospitalized patients. The application could be used by the doctors or family visiting patients.
 
 ## Teammates
-Mayar Mostafa
-
-Joshua Stein
-
-Ali Bou Orm
+- Mayar Mostafa
+- Joshua Stein
+- Ali Bou Orm
 
 
 ## User Story
@@ -22,9 +20,10 @@ The user can additionaly navigate in the panels using the buttons in AR setup to
 The application can be used for Doctors if they don't have much time and are in a hurry to follow up with the case. Or used by the patient's family to check on him and know their current physical state.
 
 
-## Libraries
-Vuforia : Vuforia is an augmented reality software development kit for mobile devices that enables the creation of augmented reality applications.
-Mixamo : a library of thousands of full-body character animations, captured from professional motion actors. Used to get the character and its animation.
+## Libraries and Platforms
+- Unity : a cross-platform game engine
+- Vuforia : an augmented reality software development kit for mobile devices that enables the creation of augmented reality applications.
+- Mixamo : a library of thousands of full-body character animations, captured from professional motion actors. Used to get the character and its animation.
 
 
 ## Project Details:
